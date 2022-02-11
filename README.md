@@ -53,11 +53,14 @@ Shown below are instructions on how to access the website as well as how to navi
 
 ### Accessing the Website
 
-By clicking on the link  you will be redirected towards my website.
+By clicking on one of the links you will be redirected towards my website.
 
-Weblink - https://anthonysurface-websitedeployment.s3.amazonaws.com/index.html
+S3 Bucket Link - https://anthonysurface-websitedeployment.s3.amazonaws.com/index.html
 
-Once you clicked on the link, you will be taken to the home page of the website. 
+CloudFront Distribution Link - https://d22tyuspuwlws5.cloudfront.net
+
+Both links will take you to the website, the difference is the S3 link accesses the website from the bucket while the other is the accessing it from the CloudFront. 
+Once you clicked on either of the links, you will be taken to the home page of the website. 
 
 ### Navigation
 
@@ -93,7 +96,7 @@ This project is licensed under the Apache License 2.0 - see the LICENSE.md file 
 
 ## Contact
 
-Name: Anthony Surface
+Name: Anthony G. Surface
 
 Personal Email: tonysurface200@gmail.com
 

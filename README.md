@@ -55,7 +55,7 @@ Shown below are instructions on how to access the website as well as how to navi
 
 By clicking on the link  you will be redirected towards my website.
 
-Weblink - https://anthonysur-2022-website.s3.amazonaws.com/index.html
+Weblink - https://anthonysurface-websitedeployment.s3.amazonaws.com/index.html
 
 Once you clicked on the link, you will be taken to the home page of the website. 
 

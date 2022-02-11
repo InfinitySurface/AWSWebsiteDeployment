@@ -8,13 +8,13 @@ My website will offer insights about me as a person. As you explore each page, y
 ## Table Of Contents
 
 - [About The Project](#about_the_project)
-    - [Built With](#)
-- [Getting Started](#)
-    - [Accessing the Website](#)
-    - [Navigation](#)
-- [License](#)
-- [Contact](#)
-- [Acknoledgements](#)
+    - [Built With](#built with)
+- [Getting Started](#getting started)
+    - [Accessing the Website](#accessing the website)
+    - [Navigation](#navigation)
+- [License](#license)
+- [Contact](#contact)
+- [Acknoledgements](#ackoledgements)
 
 ## About The Project
 
@@ -66,3 +66,16 @@ Career -> An outline of a career I wish to pursue
 
 ## License
 
+This project is licensed under the Apache License 2.0 - see the LICENSE.md file for details
+
+## Contact
+
+Name: Anthony Surface
+
+Personal Email: tonysurface200@gmail.com
+
+University Email: anthony.surface@my.utsa.edu
+
+## Acknowledgments
+
+Resources Used:

@@ -99,6 +99,8 @@ Personal Email: tonysurface200@gmail.com
 
 University Email: anthony.surface@my.utsa.edu
 
+Github Profile: https://github.com/InfinitySurface
+
 ## Acknowledgments
 
 Resources Used:

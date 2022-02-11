@@ -57,7 +57,7 @@ By clicking on the link  you will be redirected towards my website.
 
 Weblink - https://anthonysur-2022-website.s3.amazonaws.com/index.html
 
-Once you clicked on the link, you will be taken to the home page of my website. 
+Once you clicked on the link, you will be taken to the home page of the website. 
 
 ### Navigation
 

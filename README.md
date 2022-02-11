@@ -25,7 +25,6 @@ This entire project was created and deployed by using Amazons Web Services. AWS 
 * An object storage service that is advertised as "infinitely scaling"
 * Creates a bucket that can store data, files, videos and pictures
 
-  
 ### IAM
 * Identify and Access Management Services (IAM)
 * With IAM you can specify who can access which services and resources under certain conditions.
@@ -37,6 +36,9 @@ This entire project was created and deployed by using Amazons Web Services. AWS 
 * Resizable capacity that provides several pricing options
 
 ### CloudFront
+* Offers content delivery through a globally-distributed network
+* Improves read performance by caching the content at the edge location
+* Improves security with traffic encryption and access controls
 
 ### Built With
 
@@ -97,3 +99,4 @@ Resources Used:
 * [Adding a license to a repository](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository)
 * [HTML - Overview](https://www.tutorialspoint.com/html/html_overview.htm)
 * [HTML Basic Examples](https://www.w3schools.com/htmL/html_basic.asp)
+* [AWS](https://aws.amazon.com/?nc2=h_lg)

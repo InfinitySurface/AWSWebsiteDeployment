@@ -7,7 +7,7 @@ My website will offer insights about me as a person. As you explore each page, y
 
 ## Table Of Contents
 
-- [About The Project](#about_the_project)
+- [About The Project](#abouttheproject)
     - [Built With](#built with)
 - [Getting Started](#getting started)
     - [Accessing the Website](#accessing the website)

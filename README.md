@@ -79,6 +79,14 @@ Career -> An outline of a career I wish to pursue
 
 ***Note: Once you click off the homepage to a different page, the buttons will change accordingly*** 
 
+![MusicPage](https://user-images.githubusercontent.com/98137377/153561511-b7b615f5-ba8a-4a59-8e7d-7548d5dfb1b7.png)
+
+***ON Music Page***
+
+![MusicButtons](https://user-images.githubusercontent.com/98137377/153561814-7911a214-0d7c-4fd5-82e5-aa5593e83abb.png)
+
+***The Buttons have changed. Whichever page it's on, it will not display the button for the page itself***
+
 ## License
 
 This project is licensed under the Apache License 2.0 - see the LICENSE.md file for details

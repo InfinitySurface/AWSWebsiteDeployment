@@ -10,7 +10,7 @@ My website will offer insights about me as a person. As you explore each page, y
 - [About The Project](#about_the_project)
     - [Built With](#)
 - [Getting Started](#)
-    - [Website Link](#)
+    - [Accessing the Website](#)
     - [Navigation](#)
 - [License](#)
 - [Contact](#)
@@ -26,3 +26,42 @@ This entire project was created and deployed by using Amazons Web Services. AWS 
 - [CloudFront](#)
 
 ### Built With
+
+While I used AWS to deploy my website, I used 2 different HTML editors to help construct my pages for the website.
+
+* [tutorialspoint](https://www.tutorialspoint.com/)
+* [w3schools](https://www.w3schools.com/)
+
+## Getting Started
+
+Shown below are instructions on how to access the website as well as how to navigate to different pages.
+
+### Accessing the Website
+
+By clicking on the link  you will be redirected towards my website.
+
+Weblink - https://anthonysur-2022-website.s3.amazonaws.com/index.html
+
+Once you clicked on the link, you will be taken to the home page of my website. 
+
+### Navigation
+
+Located in the lower left corner of the webpage you will find 4 different buttons each with a different name inside.
+
+![HomePage](https://user-images.githubusercontent.com/98137377/153550256-056d350f-e6af-435d-b142-c46bb40e380b.png)
+
+![Page Buttons](https://user-images.githubusercontent.com/98137377/153548487-2377b6c3-ed56-4f0a-93e4-1353ffb2d646.png)
+
+By clicking on one of these buttons, you will be taken to a different page of my website.
+
+Hobbies -> A run down of some hobbies that I'm into
+
+Music -> A breif summary of my history with music
+
+EDM -> A sample and explanation of my favorite music genre
+
+Career -> An outline of a career I wish to pursue
+
+***Note: Once you click off the homepage to a different page, the buttons will change accordingly*** 
+
+## License

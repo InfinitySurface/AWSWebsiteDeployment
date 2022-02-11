@@ -14,16 +14,29 @@ My website will offer insights about me as a person. As you explore each page, y
     - [Navigation](#navigation)
 - [License](#license)
 - [Contact](#contact)
-- [Acknoledgements](#ackoledgements)
+- [Acknowledgments](#acknowledgments)
 
 ## About The Project
 
 This entire project was created and deployed by using Amazons Web Services. AWS offers a variety of different services that can be used for many cloud development projects. Some of the services that I used to deploy my static website include:
 
-- [S3](#)
-- [IAM](#)
-- [EC2](#)
-- [CloudFront](#)
+### S3
+* Simple Storage Service (S3)
+* An object storage service that is advertised as "infinitely scaling"
+* Creates a bucket that can store data, files, videos and pictures
+
+  
+### IAM
+* Identify and Access Management Services (IAM)
+* With IAM you can specify who can access which services and resources under certain conditions.
+* Great for managing a whole workforce
+  
+### EC2
+* Elastic Compute Cloud (EC2)
+* Service that provides virtual machines for users in the cloud
+* Resizable capacity that provides several pricing options
+
+### CloudFront
 
 ### Built With
 
@@ -79,3 +92,8 @@ University Email: anthony.surface@my.utsa.edu
 ## Acknowledgments
 
 Resources Used:
+
+* [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+* [Adding a license to a repository](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository)
+* [HTML - Overview](https://www.tutorialspoint.com/html/html_overview.htm)
+* [HTML Basic Examples](https://www.w3schools.com/htmL/html_basic.asp)

@@ -65,3 +65,4 @@ Career -> An outline of a career I wish to pursue
 ***Note: Once you click off the homepage to a different page, the buttons will change accordingly*** 
 
 ## License
+

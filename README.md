@@ -29,11 +29,6 @@ This entire project was created and deployed by using Amazons Web Services. AWS 
 * Identify and Access Management Services (IAM)
 * With IAM you can specify who can access which services and resources under certain conditions.
 * Great for managing a whole workforce
-  
-### EC2
-* Elastic Compute Cloud (EC2)
-* Service that provides virtual machines for users in the cloud
-* Resizable capacity that provides several pricing options
 
 ### CloudFront
 * Offers content delivery through a globally-distributed network
